@@ -4,11 +4,9 @@
   box-sizing: border-box;
   font-family: le jour;
 }
-
 .py {
   padding: 20px 0px;
 }
-
 .mb {
   margin-bottom: 8px;
 }
@@ -19,12 +17,12 @@
   display: grid;
   place-items: center;
   place-content: center;
+  h2 {
+    font-size: 7em;
+    line-height: 110%;
+    padding: 10px;
+  }
+  p {
+    font-size: 1.3em;
+  }
 }
-.section h2 {
-  font-size: 7em;
-  line-height: 110%;
-  padding: 10px;
-}
-.section p {
-  font-size: 1.3em;
-}/*# sourceMappingURL=style.css.map */
